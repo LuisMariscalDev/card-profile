@@ -61,10 +61,12 @@ body {
 }
 .amount {
     font-weight: 700;
+    margin-bottom: 5px;
 }
 .txt {
     font-size: 13px;
     color: var(--Dark_gray);
+    margin-top: 0;
 }
 .city{
     color: var(--Dark_gray);
